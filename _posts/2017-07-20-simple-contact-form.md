@@ -4,9 +4,9 @@ description: >-
   This looks like a simple contact form, yet it works really great on grid
   sites. The size is responsive - have a look at the page on your mobile, and
   the form is secure, using the Google reCaptcha.. the form is from a company
-  called formlets. 
-dateModified: '2017-07-20T10:07:10.479Z'
-datePublished: '2017-07-20T10:07:10.638Z'
+  called formlets.
+dateModified: '2017-07-20T13:53:25.729Z'
+datePublished: '2017-07-20T13:53:26.348Z'
 title: Simple Contact form..
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Simple Contact form..
 
-This looks like a simple contact form, yet it works really great on grid sites. The size is responsive - have a look at the page on your mobile, and the form is secure, using the Google reCaptcha.. the form is from a company called [formlets][0]. 
+This looks like a simple contact form, yet it works really great on grid sites. The size is responsive - have a look at the page on your mobile, and the form is secure, using the Google reCaptcha.. the form is from a company called [formlets][0].
 
 When you create an account on their site, there are all manner of form templates, blank forms, and all easily customizable. Change the colors, fonts, and logos.. easy..
 
@@ -29,4 +29,4 @@ When you create an account on their site, there are all manner of form templates
 
 
 
-[0]: https://formlets.com/
+[0]: https://formlets.com/?ref=gridtalk
