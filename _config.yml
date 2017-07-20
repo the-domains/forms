@@ -1,0 +1,49 @@
+layout_spectrum: 0.7233745924402766
+typography_spectrum: 0.19627499383108893
+color:
+  brandStrength: 0.9670209798061906
+  lightness: 0.9455725142258302
+  saturation: 0.9040207384569147
+  rhythmicContrast: 0.3683406127362263
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: forms
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa933a03-65dc-48ee-9d85-d195caeb51bc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa933a03-65dc-48ee-9d85-d195caeb51bc.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: want forms ?
+description: forms are good.. orders are good..
+github: true
