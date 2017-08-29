@@ -48,3 +48,7 @@ title: want forms ?
 description: forms are good.. orders are good..
 github: true
 url: 'http://forms.abc-xyz.us/'
+purpose:
+  - type: external
+    url: 'https://abc-xyz.us'
+    label: abc.. to xyc
