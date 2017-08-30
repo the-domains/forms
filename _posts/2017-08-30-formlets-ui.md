@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Here is a snapshot of the formlets backend. The fields on the left can be
   easily dragged across to the form as you build it up. Fully customizable..
-dateModified: '2017-08-30T13:27:13.152Z'
-datePublished: '2017-08-30T13:27:13.320Z'
+dateModified: '2017-08-30T13:27:04.598Z'
+datePublished: '2017-08-30T13:27:05.119Z'
 title: Formlets UI
 author: []
 publisher: {}
 via: {}
 hasPage: true
-sourcePath: _posts/2017-08-30-formlets-ui.md
 starred: false
 datePublishedOriginal: '2017-08-30T13:27:05.119Z'
+sourcePath: _posts/2017-08-30-formlets-ui.md
 url: formlets-ui/index.html
 _type: Article
 
