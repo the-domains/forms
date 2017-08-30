@@ -51,4 +51,4 @@ url: 'http://forms.abc-xyz.us/'
 purpose:
   - type: external
     url: 'https://abc-xyz.us'
-    label: 'https://abc-xyz.us'
+    label: abc.. to xyz
