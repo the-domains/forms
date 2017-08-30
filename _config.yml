@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: forms
+name: abc.. to xyz
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -51,4 +51,4 @@ url: 'http://forms.abc-xyz.us/'
 purpose:
   - type: external
     url: 'https://abc-xyz.us'
-    label: abc.. to xyc
+    label: 'https://abc-xyz.us'
