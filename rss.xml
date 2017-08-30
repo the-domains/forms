@@ -6,14 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 30 Aug 2017 13:28:43 GMT</lastBuildDate>
         <atom:link href="http://forms.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Aug 2017 13:27:41 GMT</pubDate>
-        <item>
-            <title><![CDATA[Formlets UI]]></title>
-            <description><![CDATA[<h1>Formlets UI</h1>,<p>Here is a snapshot of the formlets backend. The fields on the left can be easily dragged across to the form as you build it up. Fully customizable..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/608d54b5-7e06-4e6d-b890-49510e17b9f5.png">]]></description>
-            <link>http://forms.abc-xyz.us/formlets-ui/index.html</link>
-            <guid isPermaLink="false">749ece30-9f4b-40f2-8cbb-1b7cc37b6be5</guid>
-            <pubDate>Wed, 30 Aug 2017 13:27:05 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 30 Aug 2017 13:27:42 GMT</pubDate>
         <item>
             <title><![CDATA[Simple Contact form..]]></title>
             <description><![CDATA[<h1>Simple Contact form..</h1>,<p>This looks like a simple contact form, yet it works really great on grid sites. The size is responsive - have a look at the page on your mobile, and the form is secure, using the Google reCaptcha.. the form is from a company called <a href="https://formlets.com/?ref=gridtalk" title="">Formlets</a>.</p>,<p>When you create an account on their site, there are all manner of form templates, blank forms, and all easily customizable. Change the colors, fonts, and logos.. easy..</p>,<p>The benefit of Formlets, apart from easy integration to a grid site, is that you can get one form for free! Most people will probably only need a contact form on their site, if you need more forms, you’re likely to be a business.</p>,<p>Pricing can be found <a href="https://formlets.com/pricing/?cur=USD&amp;mode=YEARLY" title="">here</a>, for a small business for $180/yr you can have up to 10 forms, plenty to keep you going. This will also give you the ability to use <strong>Paypal &amp; Stripe</strong>&nbsp;payment options.</p>,<p>To integrate the form into your grid site, we’re going to use the supplied iframe code, and paste it into an embedded html window.</p>,<p>The code looks like :</p>,<pre><code>&lt;script type=&quot;text/javascript&quot; src=&quot;https://formlets.com/static/js/iframeResizer.min.js&quot;&gt;&lt;/script&gt;
@@ -22,6 +15,13 @@
             <link>http://forms.abc-xyz.us/simple-contact-form/index.html</link>
             <guid isPermaLink="false">1cf5ed31-4622-4e81-bcdb-77495074621f</guid>
             <pubDate>Thu, 20 Jul 2017 10:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Formlets UI]]></title>
+            <description><![CDATA[<h1>Formlets UI</h1>,<p>Here is a snapshot of the formlets backend. The fields on the left can be easily dragged across to the form as you build it up. Fully customizable..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/608d54b5-7e06-4e6d-b890-49510e17b9f5.png">]]></description>
+            <link>http://forms.abc-xyz.us/formlets-ui/index.html</link>
+            <guid isPermaLink="false">749ece30-9f4b-40f2-8cbb-1b7cc37b6be5</guid>
+            <pubDate>Wed, 30 Aug 2017 13:27:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[the grid pizzeria..]]></title>
