@@ -5,8 +5,8 @@ description: >-
   sites. The size is responsive - have a look at the page on your mobile, and
   the form is secure, using the Google reCaptcha.. the form is from a company
   called Formlets.
-dateModified: '2017-08-30T13:27:17.914Z'
-datePublished: '2017-08-30T13:27:18.270Z'
+dateModified: '2017-08-31T17:03:30.101Z'
+datePublished: '2017-08-31T17:03:30.257Z'
 title: Simple Contact form..
 author: []
 publisher: {}
