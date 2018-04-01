@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: abc.. to xyz
+name: forms
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -47,7 +47,7 @@ content:
 title: want forms ?
 description: forms are good.. orders are good..
 github: true
-url: 'http://forms.abc-xyz.us/'
+url: 'http://thegrid.ai/forms'
 purpose:
   - type: external
     url: 'https://abc-xyz.us'
