@@ -50,8 +50,8 @@ github: true
 url: 'http://thegrid.ai/forms'
 purpose:
   - type: external
-    url: 'https://abc-xyz.us'
-    label: abc.. to xyz
+    url: 'http://thegrid.ai/abcxyz'
+    label: abc.. xyz
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a95e49dc-13f8-4a69-9c65-a1e0b3d6359c.png
 logo: >-
